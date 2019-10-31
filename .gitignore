@@ -1,2 +1,13 @@
 node_modules
+.editorconfig
+.eslintrc.js
+.git
+.gitignore
+.prettierrc
+.sequelizerc
+.vscode
+ nodemon.json
+ package.json
+ yarn-error.log
+ yarn.log
 
